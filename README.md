@@ -139,7 +139,8 @@ np.mean(predict(res.x,X)==y)
 ![image](https://user-images.githubusercontent.com/93587823/236508398-f8e97649-359f-4d38-acc7-c311386730a1.png)
 
 ### 9. Proability value 
-![image](https://user-images.githubusercontent.com/93587823/236508346-bfe54789-5a08-4da4-a204-8bf5435047de.png)
+![image](https://user-images.githubusercontent.com/93587823/236511072-0eaf4b5e-2a45-4d52-8baf-c278a159d910.png)
+
 
 ### 10. Prediction value of mean
 ![image](https://user-images.githubusercontent.com/93587823/236508304-fefe13bc-91c9-4920-b700-410dd7ec589b.png)
